@@ -29,4 +29,4 @@
 | 3.27     | 上海疫情中，一位清华校友的非正常死亡 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/3) |
 | 4.7      | 【好奇晓姐】我的爸爸没了             | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/2) |
 | 4.7      | 柯基被防疫人员打死                   | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/4) |
-| 4.7     ｜ 那位被网暴的上海女孩，真的自杀了      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/7) |
+| 4.7      | 那位被网暴的上海女孩，真的自杀了      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/7) |
