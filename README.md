@@ -14,13 +14,24 @@
 |----------|--------------------|-----------------------------------------------------------------------------|
 | 4.7      | 延平路孕妇求助信息 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/1) |
 | 4.7      |  一个远房来上海治疗（肺癌）| [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/5) |
+| 4.10 | #上海疫情求助# 家父在酒店隔离期间去世 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/10) |
 
-## 封城日常
+## 日常
 
 | **日期** | **标题**           | **链接**                                                                    |
 |----------|--------------------|-----------------------------------------------------------------------------|
-| 4.7      | 是的，我快断粮了     | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/6) ｜
+| 4.7      | 是的，我快断粮了     | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/6) |
+| 4.10    | 我在大润发打了32天地铺，才知道疫情下的人最需要什么  | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/8) |
+| 4.10 | 帮帮老人小区！！ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/11) |
+| 4.10 | 浦东新区方舱医院——隔离者自述 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/17) |
 
+## 荒诞
+
+| **日期** | **标题**           | **链接**                                                                    |
+|----------|--------------------|-----------------------------------------------------------------------------|
+| 4.10 | 上海求助有关的信息被 404 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/12) |
+| 4.10 | 【视频】上海方舱医院盒饭现状 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/13) |
+| 4.10 | 复旦大学教授下楼取菜被殴打，警方介入并送来验伤通知书 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/16) |
 
 ## 悲痛
 
@@ -30,3 +41,16 @@
 | 4.7      | 【好奇晓姐】我的爸爸没了             | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/2) |
 | 4.7      | 柯基被防疫人员打死                   | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/4) |
 | 4.7      | 那位被网暴的上海女孩，真的自杀了      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/7) |
+
+## 认知
+
+| **日期** | **标题**                             | **链接**                                                                    |
+|----------|--------------------------------------|-----------------------------------------------------------------------------|
+｜4.10  | 请停止使用“躺平”与“共存”这两个语言陷阱 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/9) |
+｜4.10  | 上海防疫，背后的国本之争 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/15) |
+
+## 发声
+
+| **日期** | **标题**                             | **链接**                                                                    |
+|----------|--------------------------------------|-----------------------------------------------------------------------------|
+｜4.10  | 上海区书记辞职信火了：我们无力承担和回答，但我们有底线 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/14) |
