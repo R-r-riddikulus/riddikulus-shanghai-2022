@@ -46,11 +46,11 @@
 
 | **日期** | **标题**                             | **链接**                                                                    |
 |----------|--------------------------------------|-----------------------------------------------------------------------------|
-｜4.10  | 请停止使用“躺平”与“共存”这两个语言陷阱 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/9) |
-｜4.10  | 上海防疫，背后的国本之争 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/15) |
+| 4.10  | 请停止使用“躺平”与“共存”这两个语言陷阱 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/9) |
+| 4.10  | 上海防疫，背后的国本之争 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/15) |
 
 ## 发声
 
 | **日期** | **标题**                             | **链接**                                                                    |
 |----------|--------------------------------------|-----------------------------------------------------------------------------|
-｜4.10  | 上海区书记辞职信火了：我们无力承担和回答，但我们有底线 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/14) |
+| 4.10  | 上海区书记辞职信火了：我们无力承担和回答，但我们有底线 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/14) |
