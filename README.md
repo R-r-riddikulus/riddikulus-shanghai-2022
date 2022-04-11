@@ -51,6 +51,7 @@
 |----------|--------------------------------------|-----------------------------------------------------------------------------|
 | 4.10  | 请停止使用“躺平”与“共存”这两个语言陷阱 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/9) |
 | 4.10  | 上海防疫，背后的国本之争 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/15) |
+| 4.11 | 拆解爆文《上海防疫，背后的国本之争》：我为何更关注民本思维和人性之战 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/21) |
 
 ### 发声
 
