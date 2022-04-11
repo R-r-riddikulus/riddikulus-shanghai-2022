@@ -15,6 +15,7 @@
 | 4.7      | 延平路孕妇求助信息 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/1) |
 | 4.7      |  一个远房来上海治疗（肺癌）| [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/5) |
 | 4.10 | #上海疫情求助# 家父在酒店隔离期间去世 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/10) |
+| 4.11 | #上海疫情##浦东疫情##宝宝发烧救助# | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/18) |
 
 ### 日常
 
@@ -32,6 +33,8 @@
 | 4.10 | 上海求助有关的信息被 404 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/12) |
 | 4.10 | 【视频】上海方舱医院盒饭现状 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/13) |
 | 4.10 | 复旦大学教授下楼取菜被殴打，警方介入并送来验伤通知书 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/16) |
+| 4.11 | 一对被“误判”阳性的上海夫妻的崩溃 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/19) |
+| 4.11 | 上海疫情笑话 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/20) |
 
 ### 悲痛
 
