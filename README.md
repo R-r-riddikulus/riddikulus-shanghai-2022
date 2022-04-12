@@ -25,6 +25,7 @@
 | 4.10    | 我在大润发打了32天地铺，才知道疫情下的人最需要什么  | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/8) |
 | 4.10 | 帮帮老人小区！！ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/11) |
 | 4.10 | 浦东新区方舱医院——隔离者自述 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/17) |
+| 4.12 | 居委的不作为 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/22) |
 
 ### 荒诞
 
