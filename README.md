@@ -45,14 +45,16 @@
 | 4.7      | 【好奇晓姐】我的爸爸没了             | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/2) |
 | 4.7      | 柯基被防疫人员打死                   | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/4) |
 | 4.7      | 那位被网暴的上海女孩，真的自杀了      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/7) |
+| 4.11      | 经济学家郎咸平母亲去世      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/24) |
 
 ### 认知
 
 | **日期** | **标题**                             | **链接**                                                                    |
 |----------|--------------------------------------|-----------------------------------------------------------------------------|
 | 4.10  | 请停止使用“躺平”与“共存”这两个语言陷阱 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/9) |
-| 4.10  | 上海防疫，背后的国本之争 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/15) |
+| 4.10  | 【奇文共赏】上海防疫，背后的国本之争 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/15) |
 | 4.11 | 拆解爆文《上海防疫，背后的国本之争》：我为何更关注民本思维和人性之战 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/21) |
+| 4.12 | 【端传媒】截至2022年4月，我們對「COVID-19後遺症」的了解有多少？ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/25) |
 
 ### 发声
 
