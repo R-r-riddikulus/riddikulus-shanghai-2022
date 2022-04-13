@@ -26,6 +26,7 @@
 | 4.10 | 帮帮老人小区！！ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/11) |
 | 4.10 | 浦东新区方舱医院——隔离者自述 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/17) |
 | 4.12 | 居委的不作为 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/22) |
+| 4.13 | 【三联】我被隔离在小区的20多天 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/29) |
 
 ### 荒诞
 
