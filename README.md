@@ -36,6 +36,9 @@
 | 4.10 | 复旦大学教授下楼取菜被殴打，警方介入并送来验伤通知书 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/16) |
 | 4.11 | 一对被“误判”阳性的上海夫妻的崩溃 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/19) |
 | 4.11 | 上海疫情笑话 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/20) |
+| 4.13 | 奇葩居委会告示 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/26) |
+| 4.13 | 李强和孙春兰视察 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/27) |
+| 4.13 | 东方卫视的“抗疫晚会”，在一片骂声中暂缓播出了 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/28) |
 
 ### 悲痛
 
