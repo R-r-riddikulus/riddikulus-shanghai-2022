@@ -28,6 +28,7 @@
 | 4.12 | 居委的不作为 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/22) |
 | 4.13 | 【三联】我被隔离在小区的20多天 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/29) |
 | 4.13 | 上海徐汇区永康街道市民求救电话录音 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/30) |
+| 4.14 | 求关注！今天上海暴雨，苦的是某些方舱里的人啊！！！ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/32) |
 
 ### 荒诞
 
@@ -66,3 +67,4 @@
 | **日期** | **标题**                             | **链接**                                                                    |
 |----------|--------------------------------------|-----------------------------------------------------------------------------|
 | 4.10  | 上海区书记辞职信火了：我们无力承担和回答，但我们有底线 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/14) |
+| 4.14  | 上海人的忍耐已经到了极限 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/31) |
