@@ -61,6 +61,7 @@
 | 4.10  | 【奇文共赏】上海防疫，背后的国本之争 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/15) |
 | 4.11 | 拆解爆文《上海防疫，背后的国本之争》：我为何更关注民本思维和人性之战 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/21) |
 | 4.12 | 【端传媒】截至2022年4月，我們對「COVID-19後遺症」的了解有多少？ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/25) |
+| 4.14 | 比疫情更危险的， 是对疫情的恐慌 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/34) |
 
 ### 发声
 
@@ -68,3 +69,4 @@
 |----------|--------------------------------------|-----------------------------------------------------------------------------|
 | 4.10  | 上海区书记辞职信火了：我们无力承担和回答，但我们有底线 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/14) |
 | 4.14  | 上海人的忍耐已经到了极限 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/31) |
+| 4.14  | 上海累计感染超25万！最惨的是，他们永远上不了热搜 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/33) |
