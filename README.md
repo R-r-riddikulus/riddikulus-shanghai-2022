@@ -64,6 +64,7 @@
 | 4.11 | 拆解爆文《上海防疫，背后的国本之争》：我为何更关注民本思维和人性之战 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/21) |
 | 4.12 | 【端传媒】截至2022年4月，我們對「COVID-19後遺症」的了解有多少？ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/25) |
 | 4.14 | 比疫情更危险的， 是对疫情的恐慌 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/34) |
+| 4.16 | “上海困局”，显示哪些问题？ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/38) |
 
 ### 发声
 
