@@ -54,6 +54,7 @@
 | 4.7      | 柯基被防疫人员打死                   | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/4) |
 | 4.7      | 那位被网暴的上海女孩，真的自杀了      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/7) |
 | 4.11      | 经济学家郎咸平母亲去世      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/24) |
+| 4.16      | 4月13日下午，我外公突然离世了，由于我处在封控区，因此也没能去看最后一面      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/39) |
 
 ### 认知
 
