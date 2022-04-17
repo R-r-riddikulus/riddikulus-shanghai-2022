@@ -32,6 +32,7 @@
 | 4.13 | 上海徐汇区永康街道市民求救电话录音 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/30) |
 | 4.14 | 求关注！今天上海暴雨，苦的是某些方舱里的人啊！！！ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/32) |
 | 4.16 | 我在盒马当司机，才明白在上海送菜到底难在哪 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/42) |
+| 4.17 | 老百姓看不懂的上海抗疫 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/47) |
 
 ### 荒诞
 
