@@ -16,6 +16,8 @@
 | 4.7      |  一个远房来上海治疗（肺癌）| [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/5) |
 | 4.10 | #上海疫情求助# 家父在酒店隔离期间去世 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/10) |
 | 4.11 | #上海疫情##浦东疫情##宝宝发烧救助# | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/18) |
+| 4.17 | 我真的无路可走了 男朋友核酸阴性被带走 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/43) |
+| 4.17 | 救救上财！！！ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/45) |
 
 ### 日常
 
@@ -45,6 +47,7 @@
 | 4.13 | 李强和孙春兰视察 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/27) |
 | 4.13 | 东方卫视的“抗疫晚会”，在一片骂声中暂缓播出了 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/28) |
 | 4.14 | 张江纳仕国际社区被强行征用 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/35) |
+| 4.17 | 4月16日 新闻联播中的上海人民 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/44) |
 
 ### 悲痛
 
