@@ -48,6 +48,7 @@
 | 4.13 | 东方卫视的“抗疫晚会”，在一片骂声中暂缓播出了 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/28) |
 | 4.14 | 张江纳仕国际社区被强行征用 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/35) |
 | 4.17 | 4月16日 新闻联播中的上海人民 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/44) |
+| 4.17 | 孙春兰疫情视察摆拍 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/46) |
 
 ### 悲痛
 
