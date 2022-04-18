@@ -81,3 +81,4 @@
 | 4.10  | 上海区书记辞职信火了：我们无力承担和回答，但我们有底线 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/14) |
 | 4.14  | 上海人的忍耐已经到了极限 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/31) |
 | 4.14  | 上海累计感染超25万！最惨的是，他们永远上不了热搜 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/33) |
+| 4.18  | 我就问一句：是不是现在完全不在乎经济了？ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/50) |
