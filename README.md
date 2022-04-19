@@ -18,6 +18,7 @@
 | 4.11 | #上海疫情##浦东疫情##宝宝发烧救助# | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/18) |
 | 4.17 | 我真的无路可走了 男朋友核酸阴性被带走 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/43) |
 | 4.17 | 救救上财！！！ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/45) |
+| 4.20 | 求救！华东理工93岁教授夫妇！！ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/52) |
 
 ### 日常
 
@@ -82,3 +83,4 @@
 | 4.14  | 上海人的忍耐已经到了极限 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/31) |
 | 4.14  | 上海累计感染超25万！最惨的是，他们永远上不了热搜 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/33) |
 | 4.18  | 我就问一句：是不是现在完全不在乎经济了？ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/50) |
+| 4.20  | 德国人怒怼居委会 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/53) |
