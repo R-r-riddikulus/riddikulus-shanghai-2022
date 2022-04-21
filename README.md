@@ -52,6 +52,7 @@
 | 4.17 | 4月16日 新闻联播中的上海人民 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/44) |
 | 4.17 | 孙春兰疫情视察摆拍 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/46) |
 | 4.21 | 今晚上海市民的朋友圈堪称315晚会 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/54) |
+| 4.21 | 辽宁捐赠的物资被浪费？上海辟谣后辽宁反辟谣 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/55) |
 
 ### 悲痛
 
