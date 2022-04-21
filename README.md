@@ -76,6 +76,7 @@
 | 4.12 | 【端传媒】截至2022年4月，我們對「COVID-19後遺症」的了解有多少？ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/25) |
 | 4.14 | 比疫情更危险的， 是对疫情的恐慌 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/34) |
 | 4.16 | “上海困局”，显示哪些问题？ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/38) |
+| 4.21 | 我们得想办法，让上海不被恐惧与猜忌吞噬 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/56) |
 
 ### 发声
 
@@ -86,3 +87,4 @@
 | 4.14  | 上海累计感染超25万！最惨的是，他们永远上不了热搜 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/33) |
 | 4.18  | 我就问一句：是不是现在完全不在乎经济了？ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/50) |
 | 4.20  | 德国人怒怼居委会 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/53) |
+| 4.21  | 李承鹏 | 上海是预示未来一百年的大河。 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/57) |
