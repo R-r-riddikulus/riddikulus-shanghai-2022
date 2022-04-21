@@ -51,6 +51,7 @@
 | 4.14 | 张江纳仕国际社区被强行征用 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/35) |
 | 4.17 | 4月16日 新闻联播中的上海人民 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/44) |
 | 4.17 | 孙春兰疫情视察摆拍 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/46) |
+| 4.21 | 今晚上海市民的朋友圈堪称315晚会 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/54) |
 
 ### 悲痛
 
