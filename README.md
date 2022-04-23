@@ -65,6 +65,7 @@
 | 4.11      | 经济学家郎咸平母亲去世      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/24) |
 | 4.16      | 4月13日下午，我外公突然离世了，由于我处在封控区，因此也没能去看最后一面      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/39) |
 | 4.16      | 小提琴演奏家陈顺平先生离世      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/41) |
+| 4.22      | 外卖小哥车祸去世      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/59) |
 
 ### 认知
 
