@@ -66,6 +66,7 @@
 | 4.16      | 4月13日下午，我外公突然离世了，由于我处在封控区，因此也没能去看最后一面      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/39) |
 | 4.16      | 小提琴演奏家陈顺平先生离世      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/41) |
 | 4.22      | 外卖小哥车祸去世      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/59) |
+| 4.23      | 我在方舱，看见老人们的孤岛求生      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/61) |
 
 ### 认知
 
@@ -89,3 +90,4 @@
 | 4.18  | 我就问一句：是不是现在完全不在乎经济了？ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/50) |
 | 4.20  | 德国人怒怼居委会 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/53) |
 | 4.21  | 上海是预示未来一百年的大河。 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/57) |
+| 4.23  | 上海疫情四月之声 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/62) |
