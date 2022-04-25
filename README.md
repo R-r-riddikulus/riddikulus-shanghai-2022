@@ -34,6 +34,8 @@
 | 4.14 | 求关注！今天上海暴雨，苦的是某些方舱里的人啊！！！ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/32) |
 | 4.16 | 我在盒马当司机，才明白在上海送菜到底难在哪 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/42) |
 | 4.17 | 老百姓看不懂的上海抗疫 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/47) |
+| 4.25 | 上海人民最后悔没囤的：这份清单你可以直接拿去采购 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/63) |
+| 4.25 | 最长封锁160天，这些城市几乎被遗忘了 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/64) |
 
 ### 荒诞
 
