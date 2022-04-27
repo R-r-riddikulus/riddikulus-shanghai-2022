@@ -80,7 +80,7 @@
 | 4.16 | “上海困局”，显示哪些问题？ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/38) |
 | 4.21  | 上海是预示未来一百年的大河。 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/57) |
 | 4.21 | 我们得想办法，让上海不被恐惧与猜忌吞噬 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/56) |
-| 3.27     | 上海问题，到底是电车难题还是公地悲剧？ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/68) |
+| 4.27     | 上海问题，到底是电车难题还是公地悲剧？ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/68) |
 
 ### 认知
 
