@@ -69,6 +69,18 @@
 | 4.16      | 小提琴演奏家陈顺平先生离世      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/41) |
 | 4.22      | 外卖小哥车祸去世      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/59) |
 | 4.23      | 我在方舱，看见老人们的孤岛求生      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/61) |
+| 4.27      | 一位上海外卖小哥之死      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/65) |
+| 4.27      | 国产大飞机副总师送医途中去世      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/66) |
+
+### 深度好文
+
+| **日期** | **标题**                             | **链接**                                                                    |
+|----------|--------------------------------------|-----------------------------------------------------------------------------|
+| 4.11 | 拆解爆文《上海防疫，背后的国本之争》：我为何更关注民本思维和人性之战 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/21) |
+| 4.16 | “上海困局”，显示哪些问题？ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/38) |
+| 4.21  | 上海是预示未来一百年的大河。 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/57) |
+| 4.21 | 我们得想办法，让上海不被恐惧与猜忌吞噬 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/56) |
+| 3.27     | 上海问题，到底是电车难题还是公地悲剧？ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/68) |
 
 ### 认知
 
