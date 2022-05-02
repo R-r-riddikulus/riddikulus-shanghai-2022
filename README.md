@@ -36,6 +36,7 @@
 | 4.17 | 老百姓看不懂的上海抗疫 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/47) |
 | 4.25 | 上海人民最后悔没囤的：这份清单你可以直接拿去采购 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/63) |
 | 4.25 | 最长封锁160天，这些城市几乎被遗忘了 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/64) |
+| 4.30 | 上海社会面清零了？ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/69) |
 
 ### 荒诞
 
@@ -55,6 +56,7 @@
 | 4.17 | 孙春兰疫情视察摆拍 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/46) |
 | 4.21 | 今晚上海市民的朋友圈堪称315晚会 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/54) |
 | 4.21 | 辽宁捐赠的物资被浪费？上海辟谣后辽宁反辟谣 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/55) |
+| 5.2 | 被赶走前，她在红色电话亭住了一个月 | 新世界 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/70) |
 
 ### 悲痛
 
