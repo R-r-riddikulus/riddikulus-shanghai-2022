@@ -107,3 +107,4 @@
 | 4.20  | 德国人怒怼居委会 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/53) |
 | 4.21  | 上海是预示未来一百年的大河。 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/57) |
 | 4.23  | 上海疫情四月之声 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/62) |
+| 5.8  | 童之伟：对上海新冠防疫两措施的法律意见 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/71) |
