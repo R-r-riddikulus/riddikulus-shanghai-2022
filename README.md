@@ -57,8 +57,8 @@
 | 4.17 | 孙春兰疫情视察摆拍 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/46) |
 | 4.21 | 今晚上海市民的朋友圈堪称315晚会 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/54) |
 | 4.21 | 辽宁捐赠的物资被浪费？上海辟谣后辽宁反辟谣 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/55) |
-| 5.2 | 被赶走前，她在红色电话亭住了一个月 | 新世界 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/70) |
-| 5.10 | 说几句“入户消杀” | 新世界 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/75) |
+| 5.2 | 被赶走前，她在红色电话亭住了一个月 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/70) |
+| 5.10 | 说几句“入户消杀” | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/75) |
 
 ### 悲痛
 
