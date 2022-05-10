@@ -37,6 +37,7 @@
 | 4.25 | 上海人民最后悔没囤的：这份清单你可以直接拿去采购 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/63) |
 | 4.25 | 最长封锁160天，这些城市几乎被遗忘了 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/64) |
 | 4.30 | 上海社会面清零了？ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/69) |
+| 5.10 | 我从来没有想到过，上海会变成这个样子 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/74) |
 
 ### 荒诞
 
@@ -57,6 +58,7 @@
 | 4.21 | 今晚上海市民的朋友圈堪称315晚会 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/54) |
 | 4.21 | 辽宁捐赠的物资被浪费？上海辟谣后辽宁反辟谣 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/55) |
 | 5.2 | 被赶走前，她在红色电话亭住了一个月 | 新世界 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/70) |
+| 5.10 | 说几句“入户消杀” | 新世界 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/75) |
 
 ### 悲痛
 
@@ -73,6 +75,7 @@
 | 4.23      | 我在方舱，看见老人们的孤岛求生      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/61) |
 | 4.27      | 一位上海外卖小哥之死      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/65) |
 | 4.27      | 国产大飞机副总师送医途中去世      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/66) |
+| 5.10      | 连清川：我没有妈妈了。可是我却不敢回家见她最后一面      | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/72) |
 
 ### 深度好文
 
@@ -108,3 +111,4 @@
 | 4.21  | 上海是预示未来一百年的大河。 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/57) |
 | 4.23  | 上海疫情四月之声 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/62) |
 | 5.8  | 童之伟：对上海新冠防疫两措施的法律意见 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/71) |
+| 5.10  | 胡锡进和吴晓波接连翻车，他们怎么就没信心了？ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/73) |
