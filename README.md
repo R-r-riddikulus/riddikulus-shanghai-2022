@@ -38,6 +38,8 @@
 | 4.25 | 最长封锁160天，这些城市几乎被遗忘了 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/64) |
 | 4.30 | 上海社会面清零了？ | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/69) |
 | 5.10 | 我从来没有想到过，上海会变成这个样子 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/74) |
+| 5.14 | 有幸经历了一场笑话 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/76) |
+| 5.14 | 关于5月9日同楼层判定密集被拉去隔离 | [链接](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022/issues/78) |
 
 ### 荒诞
 
